@@ -3,7 +3,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugolino-b-guimar%C3%A3es-4b906b64/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugolino.b.g/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/hugolinobenevidesG)
+
+
 
 
 ![hugofficial GitHub stats](https://github-readme-stats.vercel.app/api?username=hugofficial&show_icons=true&theme=radical)
@@ -17,7 +18,14 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<br />
+<h2>E-mail:<h2> <p>
+ <a href="mailto:hugolino2609@gmail.com">
+  <img align="center" alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
-<br/>
+<br />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofficial&layout=compact)](https://github.com/hugofficial/github-readme-stats)
