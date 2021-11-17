@@ -1,15 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Hugolino Guimarães</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugofficial&color=yellow" alt="Profile views" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugolino-b-guimar%C3%A3es-4b906b64/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugolino.b.g/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/hugolinobenevidesG)
-
-
-
-
-![hugofficial GitHub stats](https://github-readme-stats.vercel.app/api?username=hugofficial&show_icons=true&theme=radical)
-
 ## 🛠 &nbsp;Tech Stack
 
 <div>
@@ -23,7 +14,16 @@
 
 
 <div>
-<br />
+  <br />
+  
+## ⚙️ &nbsp;GitHub Analytics
+
+![hugofficial GitHub stats](https://github-readme-stats.vercel.app/api?username=hugofficial&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofficial&layout=compact&theme=radical)](https://github.com/hugofficial/github-readme-stats)
+
+  
+
 ## 👨🏽‍🦲 &nbsp;Social Links
   
 </div>
@@ -44,5 +44,3 @@
 
 </p>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofficial&layout=compact&theme=radical)](https://github.com/hugofficial/github-readme-stats)
