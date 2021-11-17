@@ -21,8 +21,9 @@
 <img align="center" alt="Node" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
 <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 
+
+<div>
 <br />
- <div>
 ## 👨🏽‍🦲 &nbsp;Social Links
   
 </div>
@@ -43,7 +44,5 @@
 
 </p>
 </div>
-
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofficial&layout=compact&theme=radical)](https://github.com/hugofficial/github-readme-stats)
