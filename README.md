@@ -24,6 +24,7 @@
 <br />
  <div>
 ## 👨🏽‍🦲 &nbsp;Social Links
+  
 </div>
 <p align="left" style="background:yellow">
 
@@ -45,5 +46,4 @@
 
 <br />
 
-![hugofficial GitHub stats](https://github-readme-stats.vercel.app/api?username=hugofficial&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofficial&layout=compact)](https://github.com/hugofficial/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofficial&layout=compact&theme=radical)](https://github.com/hugofficial/github-readme-stats)
