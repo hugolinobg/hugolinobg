@@ -22,13 +22,28 @@
 <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 
 <br />
-<h2>E-mail:<h2> <p>
- <a href="mailto:hugolino2609@gmail.com">
-  <img align="center" alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+ <div>
+## 👨🏽‍🦲 &nbsp;Social Links
 </div>
+<p align="left" style="background:yellow">
+
+<a href="mailto:hugolino2609@gmail.com">
+  <img align="center" alt="Gmail" src="https://img.shields.io/badge/-hugolino-05122A?style=flat&logo=gmail"/>
+</a>
+<a href="https://linkedin.com/in/hugolino-guimarães-4b906b64" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-hugolino-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/hugolino.b.g" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-hugolino-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.youtube.com/c/hugolinobenevidesG" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-hugolino-05122A?style=flat&logo=youtube" alt="youtube"/>
+ </a>
+
+</p>
+</div>
+
 <br />
 
-
+![hugofficial GitHub stats](https://github-readme-stats.vercel.app/api?username=hugofficial&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofficial&layout=compact)](https://github.com/hugofficial/github-readme-stats)
