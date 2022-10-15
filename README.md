@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Hugolino Guimarães</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugofficial&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugolinobg&color=yellow" alt="Profile views" /> </p>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -18,9 +18,9 @@
   
 ## ⚙️ &nbsp;GitHub Analytics
 
-![hugofficial GitHub stats](https://github-readme-stats.vercel.app/api?username=hugolinobg&show_icons=true&theme=radical)
+![hugolinobg GitHub stats](https://github-readme-stats.vercel.app/api?username=hugolinobg&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugolinobg&layout=compact&theme=radical)](https://github.com/hugofficial/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugolinobg&layout=compact&theme=radical)](https://github.com/hugolinobg/github-readme-stats)
 
   
 
@@ -44,3 +44,6 @@
 
 </p>
 </div>
+
+
+![Snake animation]https://github.com/hugolinobg/hugolinobg/------/github-contribution-grid-snake.svg)
