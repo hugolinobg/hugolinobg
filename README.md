@@ -47,5 +47,3 @@
 
 
 ![Snake animation](https://raw.githubusercontent.com/hugolinobg/hugolinobg/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-![Snake animation](https://github.com/hugolinobg/hugolinobg/tree/main/.github/workflows/github-contribution-grid-snake-dark.svg?palette=github-dark)
