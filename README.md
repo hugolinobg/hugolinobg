@@ -46,4 +46,4 @@
 </div>
 
 
-![Snake animation]https://github.com/hugolinobg/hugolinobg/------/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/hugolinobg/hugolinobg/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
