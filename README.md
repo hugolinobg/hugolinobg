@@ -38,7 +38,7 @@
 <a href="https://www.instagram.com/hugolino.b.g" target="_blank" rel="noopener noreferrer">
  <img align="center" src="https://img.shields.io/badge/-hugolino-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://www.youtube.com/c/hugolinobenevidesG" target="_blank" rel="noopener noreferrer">
+<a href="https://youtube.com/@hugolinobg" target="_blank" rel="noopener noreferrer">
  <img align="center" src="https://img.shields.io/badge/-hugolino-05122A?style=flat&logo=youtube" alt="youtube"/>
  </a>
 
