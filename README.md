@@ -2,8 +2,13 @@
 <h3 align="center">frontend developer</h3>
 
 
+- **💻Site** : **[Hugolino.dev](https://hugolino.dev)** 
+- **🔗Links** : **[Links.Hugolino.dev](https://links.hugolino.dev)** 
+
 - **📫E-mail para contato** : **hugolino2609@gmail.com** 
 - **📄Linkedin** : **[Linkedin/Hugolino-Guimarães.com](https://linkedin.com/in/hugolino-guimarães-4b906b64)** 
+
+
 
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugolinobg&color=yellow" alt="Profile views" /> </p>
