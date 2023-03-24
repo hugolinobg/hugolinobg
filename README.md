@@ -1,6 +1,8 @@
 <h1 align="left">Hi <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="30px">, I'm Hugolino Guimarães</h1>
 <h3 align="center">Front-end Developer | HTML | CSS | JavaScript</h3>
 
+Atualmente, estou aprimorando meus conhecimentos e habilidades área de Programação, especialmente no Front-end. Sou determinado e completamente aberto a aprender novos conhecimentos para me adaptar a qualquer área que esteja envolvida com desenvolvimento. Estou em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha primeira vaga como dev front-end.
+
 
 - **💻Site** : **[Hugolino.dev](https://hugolino.dev)** 
 - **🔗Links** : **[Links.Hugolino.dev](https://links.hugolino.dev)** 
