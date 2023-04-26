@@ -50,7 +50,7 @@
 <a href="https://linkedin.com/in/hugolino-guimarães-4b906b64" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://img.shields.io/badge/-hugolino-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/hugolino.b.g" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/hugolinobg" target="_blank" rel="noopener noreferrer">
  <img align="center" src="https://img.shields.io/badge/-hugolino-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://youtube.com/@hugolinobg" target="_blank" rel="noopener noreferrer">
