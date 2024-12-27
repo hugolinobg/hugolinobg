@@ -4,11 +4,11 @@
 <p align="center">Atualmente, estou empenhado em aprimorar meus conhecimentos e habilidades na área de Programação, com um foco especial no desenvolvimento Front-end. Estou completamente determinado a aprender novos conceitos e tecnologias para me adaptar a qualquer desafio que a área de desenvolvimento apresente. Estou em processo de transição de carreira e meu objetivo é adquirir conhecimentos para me destacar no mercado de trabalho e conquistar minha primeira oportunidade como desenvolvedor Front-end.</p>
 
 
-- **💻Site** : **[Hugolino.com.br](https://hugolino.com.br)** 
-- **🔗Links** : **[Links.Hugolino.com.br](https://links.hugolino.com.br)** 
+- **💻Site** : **[hugolino.com.br](https://hugolino.com.br)** 
+- **🔗Links** : **[links.hugolino.com.br](https://links.hugolino.com.br)** 
 
 - **📫E-mail para contato** : **hugolino2609@gmail.com** 
-- **📄Linkedin** : **[Linkedin/Hugolino Guimarães](https://linkedin.com/in/hugolinobg)** 
+- **📄Linkedin** : **linkedin/hugolino guimarães](https://linkedin.com/in/hugolinobg)** 
 
 
 
