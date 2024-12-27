@@ -8,7 +8,7 @@
 - **🔗Links** : **[links.hugolino.com.br](https://links.hugolino.com.br)** 
 
 - **📫E-mail para contato** : **hugolino2609@gmail.com** 
-- **📄Linkedin** : **linkedin/hugolino guimarães](https://linkedin.com/in/hugolinobg)** 
+- **📄Linkedin** : **[linkedin/hugolino guimarães](https://linkedin.com/in/hugolinobg)** 
 
 
 
